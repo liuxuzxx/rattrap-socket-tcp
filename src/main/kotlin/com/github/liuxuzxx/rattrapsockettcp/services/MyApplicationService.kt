@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.liuxuzxx.rattrapsockettcp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.liuxuzxx.rattrapsockettcp.MyBundle
 
 class MyApplicationService {
 
